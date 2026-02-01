@@ -1,0 +1,34 @@
+:root {
+    --black: #FF000000;
+    --primary: #FFFFFF;
+    --Red: #df4759;
+
+    /* Green */
+    --Chat_receive_green: #75FBBA;
+    --Yellow_Green: #30FF00;
+    --Green: #0eaf57;
+
+    /* Yellow */
+    --Yellow: #e7c14d;
+
+    /* Blue */
+    --Link_Blue: #0000EE;
+    --primaryWhiteOrBlack: #FFFFFFFF;
+    --primaryGrayOrDarkGray: #F1F1F1;
+    --secondaryWhiteOrBlack: #000000;
+    --secondaryGrayOrDarkGray: #9C9C9C;
+
+    /* Gray */
+    --lightGray: #DADADA;
+    --ShimmerLightGray: #E6E6E6;
+    --darkGray: #696969;
+    --emoji_gray70: #696969;
+
+    /* Indian Flag Color */
+    --India_saffron: #FF9933;
+    --white: #FFFFFF;
+    --India_green: #138808;
+    
+    /* ProgressBar Color */
+    --Progressbar: #30FF00;
+}
